@@ -1,1 +1,1 @@
-# Weather_app
+The weather app project uses React, CSS, and the Fetch API to retrieve weather data from WeatherAPI. It displays real-time weather information, including temperature, humidity, and forecast, offering an interactive, user-friendly interface for checking weather conditions. 
